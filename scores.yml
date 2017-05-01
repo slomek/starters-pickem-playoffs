@@ -4,8 +4,8 @@
   score: 4-2
 - teams: HOU-OKC
   score: 4-1
-# - teams: LAC-UTA
-#   score: 3-3
+- teams: LAC-UTA
+  score: 3-4
 - teams: BOS-CHI
   score: 4-2
 - teams: CLE-IND
@@ -15,7 +15,7 @@
 - teams: WAS-ATL
   score: 4-2
 
-# - teams: GSW-LAC/UTA
+# - teams: GSW-UTA
 #   score: 0-0
 # - teams: SAS-HOU
 #   score: 0-0
