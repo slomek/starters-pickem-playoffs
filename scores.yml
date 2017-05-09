@@ -15,11 +15,11 @@
 - teams: WAS-ATL
   score: 4-2
 
-# - teams: GSW-UTA
-#   score: 0-0
+- teams: GSW-UTA
+  score: 4-0
 # - teams: SAS-HOU
 #   score: 0-0
 # - teams: BOS-WAS
 #   score: 0-0
-# - teams: CLE-TOR
-#   score: 0-0
+- teams: CLE-TOR
+  score: 4-0
