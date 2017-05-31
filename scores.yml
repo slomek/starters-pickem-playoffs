@@ -24,7 +24,10 @@
 - teams: CLE-TOR
   score: 4-0
 
-# - teams: GSW-SAS
-#   score: 0-0
-# - teams: BOS-CLE
+- teams: GSW-SAS
+  score: 4-0
+- teams: BOS-CLE
+  score: 1-4
+
+# - teams: GSW-CLE
 #   score: 0-0
