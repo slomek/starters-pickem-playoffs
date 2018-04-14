@@ -1,33 +1,16 @@
-- teams: GSW-POR
+- teams: HOU-MIN
   score: 4-0
-- teams: SAS-MEM
-  score: 4-2
-- teams: HOU-OKC
-  score: 4-1
-- teams: LAC-UTA
-  score: 4-3
-- teams: BOS-CHI
-  score: 4-2
-- teams: CLE-IND
-  score: 4-1
-- teams: TOR-MIL
-  score: 4-2
-- teams: WAS-ATL
-  score: 4-2
-
-- teams: GSW-UTA
-  score: 4-1
-- teams: SAS-HOU
-  score: 4-2
-- teams: BOS-WAS
-  score: 2-4
-- teams: CLE-TOR
-  score: 4-3
-
 - teams: GSW-SAS
   score: 4-1
-- teams: BOS-CLE
-  score: 1-4
-
-- teams: GSW-CLE
+- teams: POR-NOH 
+  score: 2-4
+- teams: UTA-OKC 
+  score: 3-4
+- teams: TOR-WAS 
   score: 4-2
+- teams: BOS-MIL 
+  score: 4-3
+- teams: PHI-MIA 
+  score: 4-3
+- teams: CLE-IND 
+  score: 4-1
