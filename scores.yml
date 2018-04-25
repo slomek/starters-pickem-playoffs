@@ -3,17 +3,20 @@
 
 #- teams: HOU-MIN
 #  score: 0-0
-#- teams: GSW-SAS
-#  score: 0-0
-#- teams: POR-NOH 
-#  score: 0-0
+- teams: GSW-SAS
+  score: 4-1
+- teams: POR-NOH 
+  score: 0-4
 #- teams: UTA-OKC 
 #  score: 0-0
 #- teams: TOR-WAS 
 #  score: 0-0
 #- teams: BOS-MIL 
 #  score: 0-0
-#- teams: PHI-MIA 
-#  score: 0-0
+- teams: PHI-MIA 
+  score: 4-1
 #- teams: CLE-IND 
 #  score: 0-0
+
+# - teams: GSW-POR
+#   score: 0-0
