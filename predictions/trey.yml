@@ -4,8 +4,8 @@
   score: 4-0
 - teams: POR-NOH 
   score: 4-3
-- teams: UTA-OKC 
-  score: 3-4
+- teams: OKC-UTA
+  score: 4-3
 - teams: TOR-WAS 
   score: 4-1
 - teams: BOS-MIL 
@@ -15,5 +15,7 @@
 - teams: CLE-IND 
   score: 4-0
 
+# - teams: HOU-UTA
+#   score: 0-0
 # - teams: GSW-POR
 #   score: 0-0

@@ -7,10 +7,10 @@
   score: 4-1
 - teams: POR-NOH 
   score: 0-4
-#- teams: UTA-OKC 
-#  score: 0-0
-#- teams: TOR-WAS 
-#  score: 0-0
+- teams: OKC-UTA 
+  score: 2-4
+- teams: TOR-WAS 
+  score: 4-2
 #- teams: BOS-MIL 
 #  score: 0-0
 - teams: PHI-MIA 
@@ -18,5 +18,7 @@
 #- teams: CLE-IND 
 #  score: 0-0
 
+# - teams: HOU-UTA
+#   score: 0-0
 # - teams: GSW-POR
 #   score: 0-0
