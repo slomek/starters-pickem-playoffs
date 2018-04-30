@@ -11,14 +11,18 @@
   score: 2-4
 - teams: TOR-WAS 
   score: 4-2
-#- teams: BOS-MIL 
-#  score: 0-0
+- teams: BOS-MIL 
+  score: 4-3
 - teams: PHI-MIA 
   score: 4-1
-#- teams: CLE-IND 
-#  score: 0-0
+- teams: CLE-IND 
+  score: 4-3
 
 # - teams: HOU-UTA
 #   score: 0-0
 # - teams: GSW-NOH
+#   score: 0-0
+# - teams: TOR-CLE
+#   score: 0-0
+# - teams: BOS-PHI
 #   score: 0-0
