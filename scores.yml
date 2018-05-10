@@ -18,11 +18,16 @@
 - teams: CLE-IND 
   score: 4-3
 
-# - teams: HOU-UTA
+- teams: HOU-UTA
+  score: 4-1
+- teams: GSW-NOH
+  score: 4-1
+- teams: TOR-CLE
+  score: 0-4
+- teams: BOS-PHI
+  score: 4-1
+
+# - teams: HOU-GSW
 #   score: 0-0
-# - teams: GSW-NOH
-#   score: 0-0
-# - teams: TOR-CLE
-#   score: 0-0
-# - teams: BOS-PHI
+# - teams: BOS-CLE
 #   score: 0-0

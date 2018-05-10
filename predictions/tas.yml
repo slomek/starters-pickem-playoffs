@@ -19,7 +19,13 @@
   score: 4-1
 - teams: GSW-NOH
   score: 4-2
-# - teams: TOR-CLE
-#   score: 4-3
-# - teams: BOS-PHI
-#   score: 1-4
+- teams: TOR-CLE
+  score: 4-3
+- teams: BOS-PHI
+  score: 1-4
+
+- teams: HOU-GSW
+  score: 1-4
+# - teams: BOS-CLE
+#   score: 0-0
+
