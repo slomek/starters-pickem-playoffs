@@ -27,7 +27,10 @@
 - teams: BOS-PHI
   score: 4-1
 
-# - teams: HOU-GSW
-#   score: 0-0
-# - teams: BOS-CLE
+- teams: HOU-GSW
+  score: 3-4
+- teams: BOS-CLE
+  score: 3-4
+
+# - teams: GSW-CLE
 #   score: 0-0
