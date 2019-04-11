@@ -5,7 +5,7 @@ import (
 )
 
 func main() {
-	players := []string{"trey", "leigh", "tas", "skeets"}
+	players := []string{"trey", "leigh", "tas", "skeets", "slomek"}
 
 	results := readResults()
 
