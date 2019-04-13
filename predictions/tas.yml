@@ -1,19 +1,19 @@
 #- teams: - 
 #  score: 0-0
 
-# - teams: GSW-LAC
-#   score: 0-0
-# - teams: DEN-SAS
-#   score: 0-0
-# - teams: POR-OKC
-#   score: 0-0
-# - teams: HOU-UTA
-#   score: 0-0
-# - teams: MIL-DET
-#   score: 0-0
-# - teams: TOR-ORL
-#   score: 0-0
-# - teams: PHI-BRO
-#   score: 0-0
-# - teams: BOS-IND
-#   score: 0-0
+- teams: GSW-LAC
+  score: 4-0
+- teams: DEN-SAS
+  score: 2-4
+- teams: POR-OKC
+  score: 1-4
+- teams: HOU-UTA
+  score: 4-3
+- teams: MIL-DET
+  score: 4-0
+- teams: TOR-ORL
+  score: 4-1
+- teams: PHI-BRO
+  score: 4-2
+- teams: BOS-IND
+  score: 4-2
