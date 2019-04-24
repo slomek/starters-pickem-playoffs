@@ -5,23 +5,23 @@
 #   score: 0-0
 # - teams: DEN-SAS
 #   score: 0-0
-# - teams: POR-OKC
-#   score: 0-0
+- teams: POR-OKC
+  score: 4-1
 # - teams: HOU-UTA
 #   score: 0-0
-# - teams: MIL-DET
-#   score: 0-0
-# - teams: TOR-ORL
-#   score: 0-0
-# - teams: PHI-BRO
-#   score: 0-0
+- teams: MIL-DET
+  score: 4-0
+- teams: TOR-ORL
+  score: 4-1
+- teams: PHI-BRO
+  score: 4-1
 - teams: BOS-IND
   score: 4-0
 # - teams: -
 #   score: 0-0
-# - teams: -
+# - teams: POR-
 #   score: 0-0
 # - teams: MIL-BOS
 #   score: 0-0
-# - teams: -
+# - teams: TOR-PHI
 #   score: 0-0
