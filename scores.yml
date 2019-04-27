@@ -1,8 +1,8 @@
 #- teams: - 
 #  score: 0-0
 
-# - teams: GSW-LAC
-#   score: 0-0
+- teams: GSW-LAC
+  score: 4-2
 # - teams: DEN-SAS
 #   score: 0-0
 - teams: POR-OKC
@@ -17,7 +17,7 @@
   score: 4-1
 - teams: BOS-IND
   score: 4-0
-# - teams: -
+# - teams: GSW-HOU
 #   score: 0-0
 # - teams: POR-
 #   score: 0-0
