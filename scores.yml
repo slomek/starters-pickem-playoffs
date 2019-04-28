@@ -3,8 +3,8 @@
 
 - teams: GSW-LAC
   score: 4-2
-# - teams: DEN-SAS
-#   score: 0-0
+- teams: DEN-SAS
+  score: 4-3
 - teams: POR-OKC
   score: 4-1
 - teams: HOU-UTA
@@ -19,7 +19,7 @@
   score: 4-0
 # - teams: GSW-HOU
 #   score: 0-0
-# - teams: POR-
+# - teams: DEN-POR
 #   score: 0-0
 # - teams: MIL-BOS
 #   score: 0-0
