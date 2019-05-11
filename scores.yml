@@ -17,11 +17,11 @@
   score: 4-1
 - teams: BOS-IND
   score: 4-0
-# - teams: GSW-HOU
-#   score: 0-0
+- teams: GSW-HOU
+  score: 4-2
 # - teams: DEN-POR
 #   score: 0-0
-# - teams: MIL-BOS
-#   score: 0-0
+- teams: MIL-BOS
+  score: 4-1
 # - teams: TOR-PHI
 #   score: 0-0
