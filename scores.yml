@@ -19,9 +19,13 @@
   score: 4-0
 - teams: GSW-HOU
   score: 4-2
-# - teams: DEN-POR
-#   score: 0-0
+- teams: DEN-POR
+  score: 3-4
 - teams: MIL-BOS
   score: 4-1
-# - teams: TOR-PHI
+- teams: TOR-PHI
+  score: 4-3
+# - teams: GSW-POR
+#   score: 0-0
+# - teams: MIL-TOR
 #   score: 0-0
