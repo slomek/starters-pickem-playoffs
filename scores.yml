@@ -25,7 +25,7 @@
   score: 4-1
 - teams: TOR-PHI
   score: 4-3
-# - teams: GSW-POR
-#   score: 0-0
-# - teams: MIL-TOR
-#   score: 0-0
+- teams: GSW-POR
+  score: 4-0
+- teams: MIL-TOR
+  score: 2-4
