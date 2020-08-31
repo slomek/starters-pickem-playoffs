@@ -1,33 +1,33 @@
 #- teams: - 
 #  score: 0-0
 
-- teams: GSW-LAC
+- teams: LAL-POR
   score: 4-1
-- teams: DEN-SAS
-  score: 4-3
-- teams: POR-OKC
-  score: 2-4
-- teams: HOU-UTA
-  score: 4-3
-- teams: MIL-DET
+- teams: LAC-DAL
   score: 4-0
-- teams: TOR-ORL
-  score: 4-1
-- teams: PHI-BRO
+- teams: DEN-UTA
   score: 4-2
-- teams: BOS-IND
-  score: 4-2
-- teams: GSW-HOU
-  score: 4-3
-- teams: DEN-POR
+- teams: HOU-OKC
   score: 2-4
-- teams: MIL-BOS
-  score: 4-3
-- teams: TOR-PHI
+- teams: MIL-ORL
+  score: 4-0
+- teams: TOR-BRO
   score: 4-1
-- teams: GSW-POR
-  score: 4-2
-- teams: MIL-TOR
-  score: 4-2
-- teams: TOR-GSW
-  score: 2-4
+- teams: BOS-PHI
+  score: 4-0
+- teams: IND-MIA
+  score: 0-4
+# - teams: LAL-xxx
+#   score: 0-0
+# - teams: LAC-xxx
+#   score: 0-0
+# - teams: MIL-MIA
+#   score: 0-0
+# - teams: TOR-BOS
+#   score: 0-1
+# - teams: W1-W2
+#   score: 0-0
+# - teams: E1-E2
+#   score: 0-0
+# - teams: X-X
+#   score: 0-0

@@ -25,15 +25,19 @@ type score struct {
 func playersScores(pp []string, results Playoffs) []score {
 	var ss []score
 	for _, p := range pp {
-		ss = append(ss, score{player: p, score: playerScore(p, results)})
+		sc, empty := playerScore(p, results)
+		if empty {
+			continue
+		}
+		ss = append(ss, score{player: p, score: sc})
 	}
 	return ss
 }
 
-func playerScore(player string, playoffs Playoffs) int {
+func playerScore(player string, playoffs Playoffs) (int, bool) {
 	scores := readGuesses(player)
 
-	return calculatePoints(playoffs, scores)
+	return calculatePoints(playoffs, scores), scores == nil
 }
 
 func medal(index int, scores []score) string {
