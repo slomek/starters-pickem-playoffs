@@ -5,10 +5,10 @@
   score: 4-1
 - teams: LAC-DAL
   score: 4-2
-# - teams: DEN-UTA
-#   score: 3-3
-# - teams: HOU-OKC
-#   score: 3-2
+- teams: DEN-UTA
+  score: 4-3
+- teams: HOU-OKC
+  score: 4-3
 - teams: MIL-ORL
   score: 4-1
 - teams: TOR-BRO
@@ -17,14 +17,14 @@
   score: 4-0
 - teams: IND-MIA
   score: 0-4
-# - teams: LAL-xxx
+# - teams: LAL-HOU
 #   score: 0-0
-# - teams: LAC-xxx
-#   score: 0-0
+# - teams: LAC-DEN
+#   score: 1-0
 # - teams: MIL-MIA
-#   score: 0-0
+#   score: 0-2
 # - teams: TOR-BOS
-#   score: 0-1
+#   score: 1-2
 # - teams: W1-W2
 #   score: 0-0
 # - teams: E1-E2

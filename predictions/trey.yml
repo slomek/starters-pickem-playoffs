@@ -17,12 +17,12 @@
   score: 4-2
 - teams: IND-MIA
   score: 2-4
-# - teams: LAL-xxx
+# - teams: LAL-HOU
 #   score: 0-0
-# - teams: LAC-xxx
-#   score: 0-0
-# - teams: MIL-MIA
-#   score: 0-0
+- teams: LAC-DEN
+  score: 4-2
+- teams: MIL-MIA
+  score: 4-2
 - teams: TOR-BOS
   score: 3-4
 # - teams: W1-W2
