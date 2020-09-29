@@ -25,9 +25,9 @@
   score: 1-4
 - teams: TOR-BOS
   score: 3-4
-# - teams: LAL-DEN
-#   score: 0-0
-# - teams: BOS-MIA
-#   score: 0-1
-# - teams: X-X
+- teams: LAL-DEN
+  score: 4-1
+- teams: BOS-MIA
+  score: 2-4
+# - teams: LAL-MIA
 #   score: 0-0
