@@ -1,33 +1,19 @@
-#- teams: - 
+#- teams: -
 #  score: 0-0
 
-- teams: LAL-POR
-  score: 4-1
-- teams: LAC-DAL
-  score: 4-1
-- teams: DEN-UTA
-  score: 4-1
-- teams: HOU-OKC
-  score: 3-4
-- teams: MIL-ORL
+# - teams: UTA-???
+#   score: 0-0
+# - teams: PHO-LAL
+#   score: 0-0
+# - teams: DEN-POR
+#   score: 0-0
+# - teams: LAC-DAL
+#   score: 0-0
+- teams: PHI-WAS
   score: 4-0
-- teams: TOR-BRO
+- teams: BRO-BOS
   score: 4-0
-- teams: BOS-PHI
-  score: 4-1
-- teams: IND-MIA
-  score: 1-4
-- teams: LAL-HOU
-  score: 4-2
-- teams: LAC-DEN
-  score: 4-1
 - teams: MIL-MIA
-  score: 3-4
-- teams: TOR-BOS
-  score: 4-3
-- teams: LAL-DEN
   score: 4-2
-- teams: BOS-MIA
-  score: 3-4
-- teams: LAL-MIA
-  score: 3-4
+- teams: NYK-ATL
+  score: 2-4
