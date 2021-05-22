@@ -1,14 +1,14 @@
 #- teams: -
 #  score: 0-0
 
-# - teams: UTA-???
-#   score: 0-0
-# - teams: PHO-LAL
-#   score: 0-0
-# - teams: DEN-POR
-#   score: 0-0
-# - teams: LAC-DAL
-#   score: 0-0
+- teams: UTA-MEM
+  score: 4-2
+- teams: PHO-LAL
+  score: 2-4
+- teams: DEN-POR
+  score: 3-4
+- teams: LAC-DAL
+  score: 4-1
 - teams: PHI-WAS
   score: 4-1
 - teams: BRO-BOS
