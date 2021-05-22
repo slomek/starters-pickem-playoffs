@@ -2,8 +2,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: golang:1.12-stretch
-    working_directory: /tmp/starters-pickem-playoffs
+      - image: golang:1.16-stretch
     steps:
       - checkout
       - run:
@@ -18,4 +17,3 @@ workflows:
   build:
     jobs:
       - build
-
